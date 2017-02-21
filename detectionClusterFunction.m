@@ -21,7 +21,6 @@ timei = time;
 % Nlim, minimum number of events to save a cluster
 % Piero Poli ppoli@mit.edu
 
-
 %% example:
 % N=100
 % TNmax = 5;
